@@ -1,0 +1,75 @@
+2023/06/21-13:33:15.569 dd3b Reusing MANIFEST /home/shelton/shantel/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/21-13:33:15.572 dd3b Recovering log #6551
+2023/06/21-13:33:15.625 dd3b Reusing old log /home/shelton/shantel/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/006551.log 
+2023/06/21-13:33:42.057 dd41 Compacting 1@1 + 10@2 files
+2023/06/21-13:33:42.170 dd41 Generated table #6572@1: 12056 keys, 2131150 bytes
+2023/06/21-13:33:42.395 dd41 Generated table #6573@1: 111385 keys, 2264926 bytes
+2023/06/21-13:33:42.589 dd41 Generated table #6574@1: 103874 keys, 2255098 bytes
+2023/06/21-13:33:42.777 dd41 Generated table #6575@1: 103555 keys, 2253305 bytes
+2023/06/21-13:33:42.976 dd41 Generated table #6576@1: 104073 keys, 2253855 bytes
+2023/06/21-13:33:42.976 dd41 Level-0 table #6578: started
+2023/06/21-13:33:43.033 dd41 Level-0 table #6578: 1062763 bytes OK
+2023/06/21-13:33:43.036 dd41 Delete type=0 #6551
+2023/06/21-13:33:43.244 dd41 Generated table #6579@1: 103399 keys, 2254190 bytes
+2023/06/21-13:33:43.471 dd41 Generated table #6580@1: 103755 keys, 2254230 bytes
+2023/06/21-13:33:43.649 dd41 Generated table #6581@1: 102817 keys, 2252536 bytes
+2023/06/21-13:33:43.797 dd41 Generated table #6582@1: 102836 keys, 2252891 bytes
+2023/06/21-13:33:43.951 dd41 Generated table #6583@1: 104185 keys, 2254597 bytes
+2023/06/21-13:33:43.958 dd41 Generated table #6584@1: 1505 keys, 33610 bytes
+2023/06/21-13:33:43.958 dd41 Compacted 1@1 + 10@2 files => 22460388 bytes
+2023/06/21-13:33:43.963 dd41 compacted to: files[ 1 2 66 0 0 0 0 ]
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6540
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6542
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6555
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6544
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6539
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6546
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6547
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6538
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6541
+2023/06/21-13:33:43.967 dd41 Delete type=2 #6545
+2023/06/21-13:33:43.968 dd41 Delete type=2 #6543
+2023/06/21-13:33:44.038 dd3b Compacting 1@0 + 2@1 files
+2023/06/21-13:33:44.091 dd3b Generated table #6585@0: 15662 keys, 275881 bytes
+2023/06/21-13:33:44.104 dd3b Generated table #6586@0: 2850 keys, 201473 bytes
+2023/06/21-13:33:44.106 dd3b Generated table #6587@0: 158 keys, 6283 bytes
+2023/06/21-13:33:44.110 dd3b Generated table #6588@0: 1520 keys, 26104 bytes
+2023/06/21-13:33:44.113 dd3b Generated table #6589@0: 291 keys, 15167 bytes
+2023/06/21-13:33:44.113 dd3b Compacted 1@0 + 2@1 files => 524908 bytes
+2023/06/21-13:33:44.114 dd3b compacted to: files[ 0 5 66 0 0 0 0 ]
+2023/06/21-13:33:44.115 dd3b Delete type=2 #6578
+2023/06/21-13:33:44.115 dd3b Delete type=2 #6556
+2023/06/21-13:33:44.115 dd3b Delete type=2 #6557
+2023/06/21-13:33:44.427 dd3b Compacting 1@1 + 8@2 files
+2023/06/21-13:33:44.493 dd3b Generated table #6590@1: 884 keys, 2141188 bytes
+2023/06/21-13:33:44.577 dd3b Generated table #6591@1: 1988 keys, 2150944 bytes
+2023/06/21-13:33:44.664 dd3b Generated table #6592@1: 2936 keys, 2155557 bytes
+2023/06/21-13:33:44.798 dd3b Generated table #6593@1: 27514 keys, 2227491 bytes
+2023/06/21-13:33:44.956 dd3b Generated table #6594@1: 23035 keys, 2287906 bytes
+2023/06/21-13:33:45.106 dd3b Generated table #6595@1: 23665 keys, 2280648 bytes
+2023/06/21-13:33:45.269 dd3b Generated table #6596@1: 29270 keys, 2238074 bytes
+2023/06/21-13:33:45.391 dd3b Generated table #6597@1: 13547 keys, 2231262 bytes
+2023/06/21-13:33:45.398 dd3b Generated table #6598@1: 179 keys, 49777 bytes
+2023/06/21-13:33:45.398 dd3b Compacted 1@1 + 8@2 files => 17762847 bytes
+2023/06/21-13:33:45.400 dd3b compacted to: files[ 0 4 67 0 0 0 0 ]
+2023/06/21-13:33:45.405 dd39 Compacting 1@1 + 9@2 files
+2023/06/21-13:33:45.568 dd39 Generated table #6599@1: 71921 keys, 2263750 bytes
+2023/06/21-13:33:45.736 dd39 Generated table #6600@1: 53279 keys, 2218103 bytes
+2023/06/21-13:33:45.822 dd39 Generated table #6601@1: 13498 keys, 2161770 bytes
+2023/06/21-13:33:45.905 dd39 Generated table #6602@1: 1827 keys, 2148034 bytes
+2023/06/21-13:33:45.973 dd39 Generated table #6603@1: 1511 keys, 2139958 bytes
+2023/06/21-13:33:46.064 dd39 Generated table #6604@1: 1683 keys, 2149074 bytes
+2023/06/21-13:33:46.170 dd39 Generated table #6605@1: 1909 keys, 2151535 bytes
+2023/06/21-13:33:46.250 dd39 Generated table #6606@1: 1946 keys, 2156479 bytes
+2023/06/21-13:33:46.256 dd39 Generated table #6607@1: 156 keys, 145425 bytes
+2023/06/21-13:33:46.256 dd39 Compacted 1@1 + 9@2 files => 17534128 bytes
+2023/06/21-13:33:46.258 dd39 compacted to: files[ 0 3 67 0 0 0 0 ]
+2023/06/21-13:33:46.260 dd39 Delete type=2 #6586
+2023/06/21-13:33:46.260 dd39 Delete type=2 #6567
+2023/06/21-13:33:46.260 dd39 Delete type=2 #6564
+2023/06/21-13:33:46.260 dd39 Delete type=2 #6562
+2023/06/21-13:33:46.260 dd39 Delete type=2 #6563
+2023/06/21-13:33:46.260 dd39 Delete type=2 #6566
+2023/06/21-13:33:46.260 dd39 Delete type=2 #6569
+2023/06/21-13:33:46.260 dd39 Delete type=2 #6565
+2023/06/21-13:33:46.260 dd39 Delete type=2 #6568

@@ -1,0 +1,83 @@
+2023/06/21-12:35:37.309 bbbc Reusing MANIFEST /home/shelton/shantel/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/21-12:35:37.313 bbbc Recovering log #6513
+2023/06/21-12:35:37.405 bbbc Reusing old log /home/shelton/shantel/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/006513.log 
+2023/06/21-12:36:08.305 bbba Compacting 1@1 + 10@2 files
+2023/06/21-12:36:08.461 bbba Generated table #6538@1: 13297 keys, 2132411 bytes
+2023/06/21-12:36:08.707 bbba Generated table #6539@1: 110864 keys, 2263848 bytes
+2023/06/21-12:36:08.940 bbba Generated table #6540@1: 103880 keys, 2253747 bytes
+2023/06/21-12:36:09.190 bbba Generated table #6541@1: 103550 keys, 2253083 bytes
+2023/06/21-12:36:09.427 bbba Generated table #6542@1: 104042 keys, 2253885 bytes
+2023/06/21-12:36:09.869 bbba Generated table #6543@1: 103344 keys, 2253035 bytes
+2023/06/21-12:36:10.309 bbba Generated table #6544@1: 103847 keys, 2253942 bytes
+2023/06/21-12:36:10.586 bbba Generated table #6545@1: 102816 keys, 2252906 bytes
+2023/06/21-12:36:10.844 bbba Generated table #6546@1: 102787 keys, 2253778 bytes
+2023/06/21-12:36:11.118 bbba Generated table #6547@1: 104185 keys, 2253233 bytes
+2023/06/21-12:36:11.126 bbba Generated table #6548@1: 1213 keys, 25888 bytes
+2023/06/21-12:36:11.126 bbba Compacted 1@1 + 10@2 files => 22449756 bytes
+2023/06/21-12:36:11.129 bbba compacted to: files[ 0 2 65 0 0 0 0 ]
+2023/06/21-12:36:11.134 bbba Delete type=2 #6472
+2023/06/21-12:36:11.135 bbba Delete type=2 #6473
+2023/06/21-12:36:11.135 bbba Delete type=2 #6476
+2023/06/21-12:36:11.135 bbba Delete type=2 #6477
+2023/06/21-12:36:11.135 bbba Delete type=2 #6474
+2023/06/21-12:36:11.135 bbba Delete type=2 #6475
+2023/06/21-12:36:11.135 bbba Delete type=2 #6479
+2023/06/21-12:36:11.135 bbba Delete type=2 #6517
+2023/06/21-12:36:11.135 bbba Delete type=2 #6480
+2023/06/21-12:36:11.135 bbba Delete type=2 #6481
+2023/06/21-12:36:11.135 bbba Delete type=2 #6478
+2023/06/21-12:36:11.493 bbba Compacting 1@1 + 4@2 files
+2023/06/21-12:36:11.715 bbba Generated table #6549@1: 102938 keys, 2253492 bytes
+2023/06/21-12:36:11.920 bbba Generated table #6550@1: 84913 keys, 1886170 bytes
+2023/06/21-12:36:11.920 bbba Compacted 1@1 + 4@2 files => 4139662 bytes
+2023/06/21-12:36:11.922 bbba compacted to: files[ 0 1 63 0 0 0 0 ]
+2023/06/21-12:36:11.924 bbba Delete type=2 #6169
+2023/06/21-12:36:11.924 bbba Delete type=2 #6200
+2023/06/21-12:36:11.924 bbba Delete type=2 #6199
+2023/06/21-12:36:11.924 bbba Delete type=2 #6519
+2023/06/21-12:36:11.924 bbba Delete type=2 #6168
+2023/06/21-12:38:02.617 bbb9 Level-0 table #6552: started
+2023/06/21-12:38:02.702 bbb9 Level-0 table #6552: 1187987 bytes OK
+2023/06/21-12:38:02.705 bbb9 Delete type=0 #6513
+2023/06/21-12:38:40.420 bbca Compacting 1@0 + 1@1 files
+2023/06/21-12:38:40.471 bbca Generated table #6553@0: 21353 keys, 407890 bytes
+2023/06/21-12:38:40.481 bbca Generated table #6554@0: 1631 keys, 117083 bytes
+2023/06/21-12:38:40.486 bbca Generated table #6555@0: 828 keys, 31644 bytes
+2023/06/21-12:38:40.490 bbca Generated table #6556@0: 1374 keys, 22879 bytes
+2023/06/21-12:38:40.493 bbca Generated table #6557@0: 236 keys, 11417 bytes
+2023/06/21-12:38:40.493 bbca Compacted 1@0 + 1@1 files => 590913 bytes
+2023/06/21-12:38:40.494 bbca compacted to: files[ 0 5 63 0 0 0 0 ]
+2023/06/21-12:38:40.495 bbca Delete type=2 #6552
+2023/06/21-12:38:40.495 bbca Delete type=2 #6518
+2023/06/21-12:38:57.699 bbb9 Compacting 1@1 + 3@2 files
+2023/06/21-12:38:57.935 bbb9 Generated table #6558@1: 70741 keys, 2263142 bytes
+2023/06/21-12:38:58.136 bbb9 Generated table #6559@1: 53597 keys, 2218266 bytes
+2023/06/21-12:38:58.254 bbb9 Generated table #6560@1: 13069 keys, 2153056 bytes
+2023/06/21-12:38:58.267 bbb9 Generated table #6561@1: 50 keys, 126195 bytes
+2023/06/21-12:38:58.267 bbb9 Compacted 1@1 + 3@2 files => 6760659 bytes
+2023/06/21-12:38:58.272 bbb9 compacted to: files[ 0 4 64 0 0 0 0 ]
+2023/06/21-12:38:58.276 bbb9 Delete type=2 #6553
+2023/06/21-12:38:58.276 bbb9 Delete type=2 #6530
+2023/06/21-12:38:58.276 bbb9 Delete type=2 #6528
+2023/06/21-12:38:58.276 bbb9 Delete type=2 #6529
+2023/06/21-12:41:16.907 bbca Compacting 1@1 + 8@2 files
+2023/06/21-12:41:16.990 bbca Generated table #6562@1: 882 keys, 2138650 bytes
+2023/06/21-12:41:17.080 bbca Generated table #6563@1: 1990 keys, 2151170 bytes
+2023/06/21-12:41:17.226 bbca Generated table #6564@1: 2969 keys, 2157137 bytes
+2023/06/21-12:41:17.409 bbca Generated table #6565@1: 27795 keys, 2228434 bytes
+2023/06/21-12:41:17.611 bbca Generated table #6566@1: 23107 keys, 2287873 bytes
+2023/06/21-12:41:17.775 bbca Generated table #6567@1: 23622 keys, 2280774 bytes
+2023/06/21-12:41:17.963 bbca Generated table #6568@1: 28937 keys, 2236407 bytes
+2023/06/21-12:41:18.257 bbca Generated table #6569@1: 13415 keys, 2229761 bytes
+2023/06/21-12:41:18.264 bbca Generated table #6570@1: 34 keys, 28942 bytes
+2023/06/21-12:41:18.264 bbca Compacted 1@1 + 8@2 files => 17739148 bytes
+2023/06/21-12:41:18.267 bbca compacted to: files[ 0 3 65 0 0 0 0 ]
+2023/06/21-12:41:18.272 bbca Delete type=2 #6522
+2023/06/21-12:41:18.272 bbca Delete type=2 #6524
+2023/06/21-12:41:18.272 bbca Delete type=2 #6525
+2023/06/21-12:41:18.272 bbca Delete type=2 #6523
+2023/06/21-12:41:18.272 bbca Delete type=2 #6368
+2023/06/21-12:41:18.272 bbca Delete type=2 #6554
+2023/06/21-12:41:18.272 bbca Delete type=2 #6521
+2023/06/21-12:41:18.272 bbca Delete type=2 #6520
+2023/06/21-12:41:18.272 bbca Delete type=2 #6493
